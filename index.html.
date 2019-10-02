@@ -1,0 +1,58 @@
+<html>
+  <head>
+
+    <title>Ignacio Zaragoza</title>
+<link rel='stylesheet' href='style.css' type='text/css'>
+
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-xs-12">
+            <h1 class="text-center">Ignacio Zaragoza</h1>
+            <h2 class="text-center"><em>The man who won the last battle against the french army</em></h2>
+            <div class="thumbnail"><img src="https://i.pinimg.com/originals/01/7a/04/017a04adac4809326b23e6f93f4c53d8.jpg">
+                <div  class="caption text-center">Ignacio Zaragoza</div>
+            </>
+          </div>
+          <div>
+            
+            <h3 class="text-center">Why Ignacio is the best general of the mexican army</h3>
+            
+            <p>Ignacio Zaragoza is the best general because he led the last battle against the french army and he won. The french army was superior to the mexican army. The french army had more soldiers and had good equipment. The battle started the 5 of may and ended that day.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+           
+            <h3 class="text-center">timeline of Ignacio Zaragoza</h3>
+            <ul>
+              <li><strong>March 24, 1829 – September 8, 1862</strong> - Mexican general and politician</li>
+              <li><strong>May 5, 1862</strong> - Won the battle of puebla</li>
+              <li><strong>September 8, 1862</strong> - died</li>
+              <li><strong>March 25, 1829</strong> - born</li>
+              <li><strong>1834</strong> - Zaragoza family moved to Matamoros, Mexico</li>
+              <li><strong>1844</strong> -  young Ignacio entered a seminary</li>
+              <li><strong>1850</strong> - Zaragoza joined the army supporting the cause of the Liberal Party</li>
+
+
+            <blockquote>
+             
+              <p><em>"Las armas nacionales se han cubierto de gloria"/"National weapons have been covered in glory"</am></p>
+              
+              <footer><cite>Ignacio Zaragoza</cite></footer>
+            </blockquote>
+            
+            <h3>If you have time pleas visit or site on <a href="https://en.wikipedia.org/wiki/Ignacio_Zaragoza" target="_blank">Ignacio wiki page</a></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="text-center">
+     
+      <p>Written and coded by Ivan Puerta</p>
+    </footer>
+  </div>
+</body>
+</html>
